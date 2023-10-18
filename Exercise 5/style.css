@@ -1,0 +1,301 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: rgb(36,208,210);
+background: linear-gradient(0deg, rgba(36,208,210,1) 4%, rgba(45,193,188,1) 4%, rgba(253,187,45,1) 100%);
+  }
+  nav ul {
+    display: flex;
+    justify-content: right;
+    gap: 3rem;
+    padding: 1rem;
+    margin: 0;
+  }
+  h1{
+    font-weight: 200;
+    margin-top: 0;
+    padding-left: 0rem;
+    padding-top: 0rem;
+    
+  }
+  nav li {
+    list-style: none;
+  }
+  img{
+    width: 400px;
+    padding-top: 0%;
+  }
+  article {
+    display: flex;
+    background-color: white;
+    padding-top: 0rem;
+  }
+  section{
+    padding: 5rem;
+    padding-top: 7rem;
+  }
+  nav li a{
+    text-decoration: none;
+    color: black;
+  }
+  .one button{
+    color: blanchedalmond;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: x-small;
+    border: 0;
+  }
+  nav li a:hover{
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 20px;
+    background-color: white;
+    padding: 7px;
+  }
+  .hel{
+font-size: larger;
+font-weight: x-small;
+  }
+  .exp{
+font-weight: bolder;
+
+  }
+ .cur{font-size: medium;
+
+ }
+article p img{
+  width: 80px;
+}
+div ul{
+display: flex;
+
+}
+
+div button{
+  color:blue;
+  background-color:  white;
+  border-radius: 20px;
+  padding: 10px;
+  font-size: x-small;
+  border: 1px solid blue;
+  font-size: small;
+  text-align: center;
+  display: inline-block;
+  font-size: 10px;
+  width: 100px;
+  padding-bottom: 10px;
+}
+div li{
+  list-style: none;
+}
+h2{
+  text-align: center;
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  font-weight: 30;
+  font-size: 1.2rem;
+  text-shadow: 3px 3px #d0c3c3;
+}
+
+.par1{
+  display: flex;
+  display: flexbox;
+  padding: 4px;
+  margin-right: 3rem;
+  margin-left: 3rem;
+}
+.pi{
+  margin-left: 0rem;
+  margin-right: 7rem;
+  font-size: medium;
+}
+ul button{
+  color:black;
+  background-color:  white;
+  border-radius: 20px;
+  padding: 5px;
+  font-size: x-small;
+  border: 1px solid black;
+  font-size: small;
+  text-align: left;
+  display: inline-block;
+  font-size: 10px;
+  width: 150px;
+  padding-bottom: 10px;
+}
+footer ul{
+  justify-content: center;
+}
+.last p{
+  text-align: center;
+}
+.info p{
+  text-align: center;
+}
+hr{
+margin-left: 1.5rem; 
+}
+section.back{
+  padding-top: 0rem;
+ 
+}
+section.WEB{
+  padding-top: 0rem;
+}
+section.SYSTEM{
+  padding-top: 0rem;
+}
+header{
+  background-color: white;
+  padding-bottom: 0rem;
+}
+.head{
+  background-color: white;
+}
+h3{
+  text-align: center;
+  background-color: white;
+  font-weight: 30;
+}
+.clients{
+  background-color: white;
+}
+section.info{
+  padding: 0rem;
+}
+section.last{
+  padding: 0rem;
+}
+p.dr{
+  margin-top: 0rem;
+  font-style: italic;
+}
+p.name{
+  margin-bottom: 0rem;
+  font-weight: bold;
+}
+h4{
+  font-weight: lighter;
+  margin-bottom: 0rem;
+  margin-left: 3.4rem;
+}
+h5{
+  text-align: center;
+  padding-left: 9rem;
+  padding-right: 9rem;
+  font-weight: lighter;
+  margin-bottom: 0rem;
+  font-size: 20px;
+}
+.h5{
+  margin-top: 0rem;
+}
+div.par1{
+  margin-top: 0rem;
+}
+.head li{
+  list-style: none;
+ }
+ section li{
+  font-weight: bold;
+ }
+ .dots{
+  text-align: center;
+ }.tuk img{
+  border-radius: 100%;
+  width: 80px;
+  margin-left: 24rem;
+ }
+.rain{
+  height: 8rem;
+  width: 8rem;
+  display: in line flex;
+  flex-direction: column;
+  padding-left: 4rem;
+  
+}
+img.rain{
+  padding: 30px;
+  margin: 0rem;
+  margin-left: 1px;
+}
+.copy{
+  text-align: center;
+  background-color: white;
+  padding-bottom: 2rem;
+  padding-top: 0rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  font-size: small;
+}
+.tlase{ 
+  width: 20px; 
+  padding-bottom: 2rem;
+}
+
+.nka{
+  display:flex;
+  justify-content: space-evenly;
+  background-color: white;
+  padding-top: 2rem;
+
+}
+
+.icon{
+  width: 20px;
+  align-items: center;
+  margin-right: 6rem;
+}
+div.icon1{
+  margin-left: 3rem;
+}
+div.icon2{
+  margin-left: 3rem;
+}
+div.icon3{
+  margin-left: 3rem;
+}
+section.WEB:hover{
+  background-color: blue;
+  color: white;
+}
+section.back:hover{
+  background-color: blue;
+  color: white;
+}
+section.SYSTEM:hover{
+  background-color: blue;
+  color: white;
+}
+.port{
+  margin-top: 0rem;
+}
+section.WEB{
+  padding-left: 1rem;
+  padding-right: 1rem ;
+  padding-bottom: 1rem;
+}
+section.back{
+  padding-left: 1rem;
+  padding-right: 1rem ;
+  padding-bottom: 1rem;
+}
+section.SYSTEM{
+  padding-left: 1rem;
+  padding-right: 1rem ;
+  padding-bottom: 1rem;
+}
+.port.rain{
+  margin-left: 5rem;
+}
+.f{
+padding-bottom: 0rem;
+}
+.p{
+padding-bottom: 0rem;
+padding-top: 0rem;
+}
+.t{
+padding-top: 0rem;
+}
